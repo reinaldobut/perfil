@@ -1,0 +1,61 @@
+/* exemplo CSS */
+*{
+margin: 0;
+padding: 0;
+    
+}
+
+body{
+    background-color: white;
+    font-family: Helvetica;
+    
+    }
+
+h1  {
+    color: green;
+    }
+h2  {
+    color: black;
+    text-align: center;
+    }
+h3  {
+    padding: 10px;
+    }
+p  {
+    padding: 10px;
+    }
+li {padding: 20px;
+    
+}
+header
+{
+    background-color: palegreen;
+    color: green;
+    padding: 20px;
+    height: 80px;
+}
+
+footer
+{
+    clear: both;
+    background-color: palegreen;
+    color: green;
+    padding: 10px;
+    height: 120px;
+    text-align: center;
+}
+#principal
+{
+background-image: url(floresta.jpg);
+background-size: 100%;    
+min-height: 450px;
+width: center;
+padding: 15px;    
+    
+}
+.container
+{
+width: auto;
+margin: auto;
+    
+}
